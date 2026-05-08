@@ -1,0 +1,24 @@
+:root {
+  /* Colors */
+  --color-primary: #2563eb;
+  --color-secondary: #9333ea;
+  --color-text: #111827;
+  --color-bg: #ffffff;
+
+  /* Spacing */
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+
+  /* Radius */
+  --radius-md: 12px;
+
+  /* Typography */
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 24px;
+}
+
+.dark {
+    
+}
